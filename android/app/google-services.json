@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597448379886",
+    "firebase_url": "https://ignosis-cbf90.firebaseio.com",
+    "project_id": "ignosis-cbf90",
+    "storage_bucket": "ignosis-cbf90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597448379886:android:e8e088a8fb76cd8fdd52ff",
+        "android_client_info": {
+          "package_name": "com.ignosis.uploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597448379886-pcu8kc6lqguim0i2dnvk8m7it5iceh4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdvcUafPDVjssl3f77hZbo-5CZ-Nk7fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597448379886-pcu8kc6lqguim0i2dnvk8m7it5iceh4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
